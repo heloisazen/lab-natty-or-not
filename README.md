@@ -21,7 +21,7 @@ Para concluir, a montagem final foi feita no site Canvas, por se tratar de uma f
 O e-book apresenta um conteúdo simples, divertido e visualmente agradável onde demonstra a grande importância sobre o uso correto de medicações e seu impacto. Por se tratar de um conteúdo gerado por IAs Generativas, pode-se concluir
 que elas possuem uma imensa capacidade de se tornar uma poderosa ferramenta na educação, conscientização e disseminação do conhecimento as pessoas.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](Ebook Uso Racional de Medicamentos.pdf)
 
 
 ## 💭 Reflexão
